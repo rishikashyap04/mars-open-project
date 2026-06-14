@@ -4,25 +4,25 @@ A deep learning system that classifies speech recordings as **Genuine (Human)** 
 
 \---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Advances in generative AI have enabled the creation of highly realistic synthetic speech. This project builds a machine learning system capable of detecting whether an audio recording is genuine human speech or AI-generated, addressing threats of impersonation, fraud, and misinformation.
 
 \---
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 **Streamlit App:** https://mars-open-project-harmtjmwosmhmsq5d5e9wa.streamlit.app/---
 
-## 📊 Results
+##  Results
 
 |Metric|Required|Achieved|
 |-|-|-|
-|Overall Accuracy|≥ 80%|**82.37%** ✅|
-|Equal Error Rate (EER)|≤ 12%|**10.19%** ✅|
-|F1 Score|≥ 80%|**79.25%** ✅|
-|Per-Class Accuracy (Genuine)|≥ 75%|**99.69%** ✅|
-|Per-Class Accuracy (Deepfake)|≥ 75%|**65.82%** ✅|
+|Overall Accuracy|≥ 80%|**82.37%** |
+|Equal Error Rate (EER)|≤ 12%|**10.19%** |
+|F1 Score|≥ 80%|**79.25%** |
+|Per-Class Accuracy (Genuine)|≥ 75%|**99.69%** |
+|Per-Class Accuracy (Deepfake)|≥ 75%|**65.82%** |
 |Epochs Trained|-|**18**|
 
 ### Confusion Matrix
