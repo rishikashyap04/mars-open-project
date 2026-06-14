@@ -17,12 +17,12 @@ Advances in generative AI have enabled the creation of highly realistic syntheti
 ##  Results
 
 |Metric|Required|Achieved|
-|-|-|-|
-|Overall Accuracy|≥ 80%|**82.37%** |
-|Equal Error Rate (EER)|≤ 12%|**10.19%** |
-|F1 Score|≥ 80%|**79.25%** |
-|Per-Class Accuracy (Genuine)|≥ 75%|**99.69%** |
-|Per-Class Accuracy (Deepfake)|≥ 75%|**65.82%** |
+|-|-|
+|Overall Accuracy|**82.37%** |
+|Equal Error Rate (EER)|**10.19%** |
+|F1 Score|**79.25%** |
+|Per-Class Accuracy (Genuine)|**99.69%** |
+|Per-Class Accuracy (Deepfake)|**65.82%** |
 |Epochs Trained|-|**18**|
 
 ### Confusion Matrix
