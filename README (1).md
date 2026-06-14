@@ -41,7 +41,7 @@ True  Genuine  \[  2257       7   ]
 
 \---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -60,7 +60,7 @@ True  Genuine  \[  2257       7   ]
 
 \---
 
-## 📁 Dataset
+##  Dataset
 
 * **Primary:** [The Fake-or-Real Dataset](https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset)
 
@@ -75,7 +75,7 @@ True  Genuine  \[  2257       7   ]
 
 \---
 
-## 🧠 Methodology
+##  Methodology
 
 ### Preprocessing
 
@@ -137,7 +137,6 @@ Each ResBlock: Conv → BN → ReLU → Conv → BN + skip connection
 
 \---
 
-```
 
 ### 4\. Reproduce training
 
@@ -145,18 +144,18 @@ Open `deepfake\_audio\_detection.ipynb` on Kaggle with **GPU T4** enabled and ru
 
 \---
 
-## 🌐 Streamlit Web App Features
+## Streamlit Web App Features
 
-* 📂 Upload any `.wav`, `.mp3`, `.flac` audio file
-* 🟢🔴 Color-coded Genuine / Deepfake result
-* 📊 Confidence score + probability bar chart
-* 🌊 Waveform visualization
-* 🎨 Log-mel spectrogram visualization
-* 📋 Sidebar with model info
+*  Upload any `.wav`, `.mp3`, `.flac` audio file
+*  Color-coded Genuine / Deepfake result
+*  Confidence score + probability bar chart
+*  Waveform visualization
+*  Log-mel spectrogram visualization
+*  Sidebar with model info
 
 \---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 * **PyTorch** — model training \& inference
 * **Librosa** — audio loading \& mel spectrogram extraction
@@ -166,7 +165,7 @@ Open `deepfake\_audio\_detection.ipynb` on Kaggle with **GPU T4** enabled and ru
 
 \---
 
-## 👤 Author
+##  Author
 
-*Rishi Kashyap*
+Rishi Kashyap
 
