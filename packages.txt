@@ -1,2 +1,3 @@
 libsndfile1
 ffmpeg
+python3-pkg-resources
