@@ -16,7 +16,7 @@ With advances in generative AI enabling highly realistic synthetic speech, detec
 |-|-|-|
 |Overall Accuracy|**82.78%**|≥ 80% |
 |Equal Error Rate (EER)|**10.19%**|≤ 12% |
-|F1 Score|**93.94%**|≥ 80% |
+|F1 Score|**85.94%**|≥ 80% |
 |Genuine (Per-Class Accuracy)|**85.95%**|≥ 75% |
 |Deepfake (Per-Class Accuracy)|**79.75%**|≥ 75% |
 
