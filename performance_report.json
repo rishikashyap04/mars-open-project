@@ -1,6 +1,6 @@
 {
   "accuracy": 0.8277945619335,
-  "f1_score": 0.9394007777111,
+  "f1_score": 0.8594007777111,
   "eer_percent": 10.185978291661,
   "confusion_matrix": [
     [
